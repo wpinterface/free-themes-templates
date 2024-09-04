@@ -15,6 +15,13 @@
             }
         ]
     },
+    "menus": {
+        "primary": "Primary Menu",
+        "expanded": "Primary Menu",
+        "mobile": "Primary Menu",
+        "footer": "Footer Menu",
+        "social": "Social Menu",
+    },
     "plugins": [
         {
             "slug": "mailchimp-for-wp",
