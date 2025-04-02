@@ -4,23 +4,15 @@
             {
                 "import_name": "Free Version",
                 "import_path": "v1",
-                "preview_url": "https://demo.wpinterface.com/maglink/"
+                "preview_url": "https://live-preview.wpinterface.com/maglink/"
             }
         ],
         "pro": [
             {
                 "import_name": "Pro Version",
                 "import_path": "v2",
-                "preview_url": "https://demo.wpinterface.com/maglink-pro/"
+                "preview_url": "https://live-preview.wpinterface.com/maglink-pro/"
             }
         ]
     },
-    "plugins": [
-        {
-            "slug": "mailchimp-for-wp",
-            "name": "MailChimp for WordPress",
-            "required": false,
-            "preselected": true
-        }
-    ]
 }
