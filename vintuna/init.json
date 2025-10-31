@@ -1,0 +1,23 @@
+{
+    "import_files": {
+        "free": [
+            {
+                "import_name": "Free Version",
+                "import_path": "v1",
+                "preview_url": "https://live-preview.wpinterface.com/vintuna"
+            }
+        ],
+        "pro": [
+            {
+                "import_name": "Pro Version",
+                "import_path": "v2",
+                "preview_url": "https://live-preview.wpinterface.com/vintuna-pro/"
+            }
+        ]
+    },
+    "plugins": [
+        {
+
+        }
+    ]
+}
