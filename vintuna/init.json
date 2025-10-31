@@ -15,4 +15,12 @@
             }
         ]
     },
+        "plugins": [
+        {
+            "slug": "mailchimp-for-wp",
+            "name": "MailChimp for WordPress",
+            "required": false,
+            "preselected": true
+        }
+    ]
 }
