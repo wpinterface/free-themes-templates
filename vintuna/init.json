@@ -15,7 +15,7 @@
             }
         ]
     },
-        "plugins": [
+    "plugins": [
         {
             "slug": "mailchimp-for-wp",
             "name": "MailChimp for WordPress",
